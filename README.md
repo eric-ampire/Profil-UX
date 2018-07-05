@@ -1,6 +1,7 @@
 # Profil-UX
 ![Resultat final](https://github.com/eric-ampire/Profil-UX/blob/master/DeepinScreenshot_select-area_20180705125036.png)
 
+# Les vues
 Les composants utiliser dans le fichier XML ne sont pas present par defaut dans Android studio, il faut donc les inclure en ajoutant toutes les dependances dans le fichier build.gradle se trouvant dans le module app
 ```
 // Pour l'image circulaire
